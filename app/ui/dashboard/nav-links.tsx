@@ -1,5 +1,5 @@
 'use client';
-// I create this repository to create a dashboard using nextjs
+
 import {
   UserGroupIcon,
   HomeIcon,
